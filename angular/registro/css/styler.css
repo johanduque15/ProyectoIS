@@ -1,0 +1,23 @@
+.ng-scope{
+	background: #bdafac;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.col-md-offset-3{
+	margin-top: 10px;
+	align-content: center;
+	width: 250px;
+	height: 250px;
+    padding: 30px;
+    color: inherit;
+    background-color: #eee;
+    border-radius: 15px;
+}
+.img{
+    display: block;
+    margin: auto;
+}
+.ng-scope{
+  font: oblique bold 100% cursive;
+}

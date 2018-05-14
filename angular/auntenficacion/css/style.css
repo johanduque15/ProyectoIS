@@ -1,0 +1,29 @@
+.ng-scope{
+	background: #bdafac;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.container{
+	margin-top: 10px;
+	width: 250px;
+	height: 150px;
+    padding: 20px;
+    color: inherit;
+    background-color: #eee;
+    border-radius: 15px;
+}
+.btn-register{
+padding-right: 10px;
+}
+.btn-danger{
+
+}
+.img{
+    display: block;
+    margin: auto;
+}
+.ng-scope{
+  font: oblique bold 100% cursive;
+}
